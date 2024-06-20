@@ -1,0 +1,15 @@
+h1 {color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: inherit;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color:aquamarine ;
+}
+#A {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+img {
+    shape-image-threshold: initial;
+}
